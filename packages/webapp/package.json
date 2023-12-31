@@ -107,7 +107,7 @@
     "reselect": "4.1.7",
     "rtl-detect": "^1.0.3",
     "sass": "^1.68.0",
-    "semver": "6.3.0",
+    "semver": "6.3.1",
     "style-loader": "0.23.1",
     "styled-components": "^5.3.1",
     "stylis-rtlcss": "^2.1.1",
