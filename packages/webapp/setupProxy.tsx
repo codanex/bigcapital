@@ -4,7 +4,7 @@ module.exports = function(app) {
   app.use(
     '/api',
     proxy({
-      target: 'http://localhost:3000',
+      target: 'https://eos0wso8o840ccggw8cocoww.centobookkeeping.online',
       changeOrigin: true,
     })
   );
